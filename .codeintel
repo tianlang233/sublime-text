@@ -1,0 +1,13 @@
+{
+	"python": {
+		"python3": "/usr/lib/python35",
+            "pythonExtraPaths": [
+                "/usr/lib/python35.zip",
+                "/usr/lib/python35",
+                "/usr/lib/python3.5/plat-x86_64-linux-gnu",
+                "/usr/lib/python3.5/lib-dynload",
+                "/usr/local/lib/python3.5/dist-packages",
+                "/usr/lib/python3/dist-packages",
+                ]
+	}
+}
