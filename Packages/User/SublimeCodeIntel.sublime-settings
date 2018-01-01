@@ -1,0 +1,16 @@
+{"codeintel_language_settings": {
+        "Python3": {
+            "python3": "/usr/lib/python35",
+            "codeintel_scan_extra_dir": [
+                "/usr/lib/python35.zip",
+                "/usr/lib/python35",
+                "/usr/lib/python3.5/plat-x86_64-linux-gnu",
+                "/usr/lib/python3.5/lib-dynload",
+                "/usr/local/lib/python3.5/dist-packages",
+                "/usr/lib/python3/dist-packages",
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        }
+}
+}
